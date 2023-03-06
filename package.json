@@ -9,9 +9,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "pug": "^2.0.4"
+    "pug": "3.0.2"
   },
   "engines": {
-    "node": "~14"
+    "node": "~16"
   }
 }
